@@ -17,7 +17,8 @@ directory tree
 
 just need to run main.py for execution, but certain steps are to be followed before-hand:
 1. edit you credentials in the `main.py` file
-2. change your google account settings of the sender email address.
+2. change your google account settings of the sender email address. (starting from line no. 51)
+3. Certain libraries are t be installed. (BeautifulSoup4, requests)
 ```
 a) go to https://myaccount.google.com/security
 b) Turn "ON" Less Secure App Access as shown below
