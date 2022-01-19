@@ -16,7 +16,7 @@ directory tree
 ```
 
 just need to run main.py for execution, but certain steps are to be followed before-hand:
-1. edit you credentials in the `main.py` file
+1. edit your credentials in the `main.py` file
 2. change your google account settings of the sender email address. (starting from line no. 51)
 3. Certain libraries are to be installed. (BeautifulSoup4, requests)
 ```
